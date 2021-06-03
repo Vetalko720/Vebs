@@ -1,0 +1,19 @@
+{
+
+    "Ratings": {
+        "Rating_1": "The Product is Awesome",
+        "Rating_2": "Yea, i`m satisfied with it",
+        "Rating_3": "Average procuct, not bad",
+        "Rating_4": "Not usefull at all, it Sucks"
+    },
+
+    "Votes": "2,422,567",
+
+    "Percentage": {
+        "Percantage_1": "67%",
+        "Percantage_2": "25%",
+        "Percantage_3": "7%",
+        "Percantage_4": "15%"
+    }
+
+}

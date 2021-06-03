@@ -1,0 +1,44 @@
+$sidenav-blue: #2f3b4c;
+
+body{
+    background-color: rgb(235, 235, 235);
+    color: rgb(63, 63, 63);
+}
+.img-product-visitors {
+    width: 100%;
+}
+.col-3{
+    .card{
+        .card-body{
+            padding: 0 !important;
+        }
+    }
+}
+.card{
+    border: none;
+    .card-header{
+        border: none;
+    }
+    .card-footer{
+        border: none;
+    }
+}
+.weird-png{
+    padding: 0 !important;
+}
+.weirders-png{
+    width: 100%;
+}
+progress{
+    width: 300px;
+}
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: $sidenav-blue;
+  overflow-x: hidden;
+}
